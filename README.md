@@ -1,4 +1,4 @@
-# Genetic-Algorithm-Optimization-of-Neural-Networks
+# Genetic-Algorithm-Cars-Simulation
 
 A 2D simulation framework built in Python/PyGame where autonomous agents (cars) learn to drive using an **evolutionary genetic algorithm** to train the weights of a **feedforward neural network**. The system demonstrates emergent navigation behavior as agents learn to optimize distance traveled and maintain the highest average speed while avoiding collisions.
 
